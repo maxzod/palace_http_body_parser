@@ -1,19 +1,26 @@
-A library for Dart developers.
+# [**`Part of Queen Palace 🏰👑`**](https://pub.dev/packages/palace)
 
-## Usage
+# Palace Validators
 
-A simple usage example:
+# Motivation
 
-```dart
-import 'package:body_parser/body_parser.dart';
+- extraction the body and the query from the ` dart:io` `HttpRequest ` class is hard process which requires to be in separated package ,
+- this package responsibility is to take `HttpRequest` object parse the query and the body and return the result
 
-main() {
-  var awesome = new Awesome();
-}
-```
+# Content
 
-## Features and bugs
+- `Future<Result> parseIoReq(HttpRequest request)`
 
-Please file feature requests and bugs at the [issue tracker][tracker].
+# Features
 
-[tracker]: http://example.com/issues/replaceme
+## Query
+
+- [ ] parse multidimensional arrays
+
+## Body
+
+- [ ] parse files in multipart
+- [ ] parse application/json
+- [ ] parse form-data
+- [ ] parse x-www-form-urlencoded
+- [ ] parse raw json
