@@ -16,6 +16,9 @@
 ## Query
 
 - [ ] parse multidimensional arrays
+- [ ] parse `List`s
+- [ ] parse `Map`s
+- [ ] Parse `Set`s
 
 ## Body
 
