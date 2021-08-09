@@ -1,6 +1,6 @@
 # [**`Part of Queen Palace 🏰👑`**](https://pub.dev/packages/palace)
 
-# Palace Validators
+# Palace Body Parser
 
 # Motivation
 
