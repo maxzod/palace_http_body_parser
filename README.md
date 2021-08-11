@@ -20,6 +20,8 @@
   - [ ] 2D
   - [ ] 3D
 - [ ] parse `Map`s
+  - [ ] empty map
+  - [ ] inner map
 - [ ] Parse `Set`s
   - [ ] 1D
   - [ ] 2D
