@@ -9,4 +9,11 @@ class Result {
     required this.body,
     required this.query,
   });
+
+  Map<String, dynamic> toMap() {
+    return {
+      'body': body,
+      'query': query,
+    };
+  }
 }
