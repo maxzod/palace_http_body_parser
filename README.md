@@ -15,9 +15,15 @@
 
 ## Query
 
-- [ ] parse `List`s (support multidimensional )
+- [ ] parse `List`s
+  - [ ] 1D
+  - [ ] 2D
+  - [ ] 3D
 - [ ] parse `Map`s
 - [ ] Parse `Set`s
+  - [ ] 1D
+  - [ ] 2D
+  - [ ] 3D
 
 ## Body
 
