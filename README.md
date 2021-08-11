@@ -15,8 +15,7 @@
 
 ## Query
 
-- [ ] parse multidimensional arrays
-- [ ] parse `List`s
+- [ ] parse `List`s (support multidimensional )
 - [ ] parse `Map`s
 - [ ] Parse `Set`s
 
