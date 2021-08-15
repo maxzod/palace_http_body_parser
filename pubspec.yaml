@@ -9,6 +9,7 @@ environment:
 dependencies:
   # * to extract the mime type
   mime: ^1.0.0
+  palace:
 
 dev_dependencies:
   # *  http client for testing

@@ -10,27 +10,3 @@
 # Content
 
 - `Future<Result> parseIoReq(HttpRequest request)`
-
-# Features
-
-## Query
-
-- [ ] parse `List`s
-  - [ ] 1D
-  - [ ] 2D
-  - [ ] 3D
-- [ ] parse `Map`s
-  - [ ] empty map
-  - [ ] inner map
-- [ ] Parse `Set`s
-  - [ ] 1D
-  - [ ] 2D
-  - [ ] 3D
-
-## Body
-
-- [ ] parse files in multipart
-- [ ] parse application/json
-- [ ] parse form-data
-- [ ] parse x-www-form-urlencoded
-- [ ] parse raw json
